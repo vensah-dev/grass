@@ -5,18 +5,18 @@
 
 export const colors = {
   //theme colours
-  primary: "#131118",
-  secondary: "#2B2735",
-  tertiary: "#484158",
-  accentPrimary: "#9370DB",
-  accentSecondary: "#D8B2FF",
-  white100: "#E6E6E6",
-  white90: 'rgba(230, 230, 230, 0.9)',
-  white75: 'rgba(230, 230, 230, 0.75)',
-  white50: 'rgba(230, 230, 230, 0.5)',
-  white25: 'rgba(230, 230, 230, 0.25)',
-  white10: 'rgba(230, 230, 230, 0.1)',
-  white5: 'rgba(230, 230, 230, 0.05)',
+  primary: "#EEE7ED",
+  secondary: "#D8CAD7",
+  tertiary: "#BEA7BC",
+  accentPrimary: "#DB70D2",
+  accentSecondary: "#FFB2F9",
+  black100: 'rgba(51, 0, 47, 1)',
+  black90: 'rgba(51, 0, 47, 0.9)',
+  black75: 'rgba(51, 0, 47, 0.75)',
+  black50: 'rgba(51, 0, 47, 0.5)',
+  black25: 'rgba(51, 0, 47, 0.25)',
+  black10: 'rgba(51, 0, 47, 0.1)',
+  black5: 'rgba(51, 0, 47, 0.05)',
 
   //actual colors
   red: '#EE4242',
